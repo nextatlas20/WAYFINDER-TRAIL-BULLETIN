@@ -1,0 +1,16 @@
+observation_id,trail_id,observed_at,sequence,status,note
+O-1,T-01,2026-09-25,1,OPEN,Clear
+O-2,T-01,2026-09-28,2,CAUTION,Fallen limb
+O-13,T-01,2026-09-28,3,CLOSED,Ice glaze
+O-3,T-02,2026-09-27,1,CLOSED,Rockfall
+O-4,T-02,2026-09-29,2,OPEN,Cleared
+O-5,T-03,2026-09-26,1,CLOSED,Flooding
+O-6,T-03,2026-09-29,2,CLOSED,Flooding persists
+O-7,T-04,2026-09-27,1,OPEN,Clear
+O-7,T-04,2026-09-28,2,CAUTION,Mud
+O-8,T-99,2026-09-29,1,CLOSED,Washout
+O-9,T-04,2026/09/29,2,OPEN,Dry
+O-10,T-04,2026-09-29,01,OPEN,Dry
+O-11,T-04,2026-09-29,2,BLOCKED,Debris
+O-12,T-04,2026-09-28,3,CAUTION,Soft sand
+O-14,T-05,2026-09-29,1,OPEN,
